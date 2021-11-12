@@ -1,2 +1,4 @@
 # Lead-Scoring-Case-Study
 An education company named X Education sells online courses to industry professionals. When people land on the website, they might browse the courses or fill up a form for the course. 
+When these people fill up a form providing their email address or phone number, they are classified to be a lead. Once these leads are acquired, employees from the sales team start making calls, writing emails, etc. Through this process, some of the leads get converted while most do not. 
+X Education has appointed a Data Scientist to help them select the most promising leads, i.e. the leads that are most likely to convert into paying customers. The company requires you to build a model wherein you need to assign a lead score to each of the leads such that the customers with higher lead score have a higher conversion chance and the customers with lower lead score have a lower conversion chance.
